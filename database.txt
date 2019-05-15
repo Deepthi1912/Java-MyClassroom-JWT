@@ -1,0 +1,44 @@
+drop database portaldb;
+create database portaldb;
+use portaldb;
+
+create table teacherDetails(
+teacherID int NOT NULL AUTO_INCREMENT,
+teacherName varchar(20),
+username varchar(20),
+password varchar(20),
+PRIMARY KEY(teacherID)
+);
+
+create table classroom(
+cID int NOT NULL AUTO_INCREMENT,
+CName varchar(20),
+teacherID int,
+PRIMARY KEY(cID)
+);
+
+create table student(
+SID int NOT NULL AUTO_INCREMENT,
+Rollno int,
+SName varchar(20),
+SPwd varchar(20),
+cID int,
+PRIMARY KEY(SID)
+);
+
+create table chat(
+cID int NOT NULL AUTO_INCREMENT,
+chatMessage varchar(1000),
+messageDate date,
+senderName varchar(20),
+classID int,
+PRIMARY KEY(cID)
+);
+
+create table files(
+fid int(10) auto_increment,
+fname varchar(100),
+content longblob,
+classID int,
+PRIMARY KEY(fid));
+
