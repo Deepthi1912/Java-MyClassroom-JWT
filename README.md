@@ -15,9 +15,9 @@ Java application for student-teacher communication that enables a teacher to man
     <td>3)Main</td>
   </tr>
   <tr>
-    <td><img src="Resources/TeacherPortal-LOGIN.PNG" width="200"></td>
-    <td><img src="Resources/TeacherPortal-SIGNUP.PNG" width="200"></td>
-    <td><img src="Resources/TeacherPortal-MAIN.PNG" width="200"></td>
+    <td><img src="Resources/TeacherPortal-LOGIN.PNG" height="200"></td>
+    <td><img src="Resources/TeacherPortal-SIGNUP.PNG" height="200"></td>
+    <td><img src="Resources/TeacherPortal-MAIN.PNG" height="200"></td>
   </tr>
   <!--ROW 2-->
   <tr>  
@@ -26,15 +26,15 @@ Java application for student-teacher communication that enables a teacher to man
     <td>6)Communication</td>
   </tr>
   <tr>
-    <td><img src="Resources/TeacherPortal-CLASSMANAGEMENT.PNG" width="200"></td>
-    <td><img src="Resources/TeacherPortal-STUDENTMANAGEMENT.PNG" width="200"></td>
-    <td><img src="Resources/TeacherPortal-CHAT.PNG" width="200"></td>
+    <td><img src="Resources/TeacherPortal-CLASSMANAGEMENT.PNG" height="200"></td>
+    <td><img src="Resources/TeacherPortal-STUDENTMANAGEMENT.PNG" height="200"></td>
+    <td><img src="Resources/TeacherPortal-CHAT.PNG" height="200"></td>
   </tr>
   <!--ROW 3-->
   <tr>  
     <td>7)File Upload</td>
   </tr>
   <tr> 
-    <td><img src="Resources/TeacherPortal-FILES.PNG" width="200"></td>
+    <td><img src="Resources/TeacherPortal-FILES.PNG" height="200"></td>
   </tr>
 </table>
