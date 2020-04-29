@@ -38,3 +38,28 @@ Java application for student-teacher communication that enables a teacher to man
     <td><img src="Resources/TeacherPortal-FILES.PNG" height="200"></td>
   </tr>
 </table>
+<br>
+
+---
+**STUDENT PORTAL**
+<br>
+<table>
+  <!--ROW 1-->
+  <tr>  
+    <td>1)Login</td>
+    <td>2)Main</td>
+    <td>3)Communication</td>
+  </tr>
+  <tr>
+    <td><img src="Resources/StudentPortal-LOGIN.PNG" height="200"></td>
+    <td><img src="Resources/StudentPortal-MAIN.PNG" height="200"></td>
+    <td><img src="Resources/StudentPortal-CHAT.PNG" height="200"></td>
+  </tr>
+  <!--ROW 2-->
+  <tr>  
+    <td>4)View Files</td>
+  </tr>
+  <tr>
+    <td><img src="Resources/StudentPortal-FILES.PNG" height="200"></td>
+  </tr>
+</table>
